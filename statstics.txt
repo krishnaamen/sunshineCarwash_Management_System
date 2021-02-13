@@ -1,0 +1,60 @@
+
+
+===========Statstics for Mon Oct 19 12:29:54 CEST 2020 ==========================================
+||      Name: Robert with id:- 1 Visisted for 1 times and spent 40.0DKK.    ||
+||      Name: Tom with id:- 2 Visisted for 2 times and spent 160.0DKK.    ||
+||      Name: John with id:- 4 Visisted for 1 times and spent 120.0DKK.    ||
+     
+||    This is the total value you earn 320.0
+
+
+
+===========Statstics for Mon Oct 19 12:37:37 CEST 2020 ==========================================
+      Name: Robert with id:- 1 Visisted for 1 times and spent 120.0DKK. 
+
+
+      Name: Søren with id:- 3 Visisted for 1 times and spent 64.0DKK. 
+
+
+      Name: John with id:- 4 Visisted for 1 times and spent 64.0DKK. 
+
+
+    This is the total value you earn 248.0
+
+
+
+===========Statstics for Mon Oct 19 12:39:57 CEST 2020 ==========================================
+      Name: Tom with id:- 2 Visisted for 1 times and spent 64.0DKK. 
+
+      Name: Søren with id:- 3 Visisted for 1 times and spent 120.0DKK. 
+
+      Name: John with id:- 4 Visisted for 1 times and spent 120.0DKK. 
+
+
+
+     Total earning  304.0
+
+
+
+===========Statstics for Mon Oct 19 12:42:05 CEST 2020 ==========================================
+
+
+      Name: Robert with id:- 1 Visisted for 1 times and spent 120.0DKK.
+      Name: Tom with id:- 2 Visisted for 2 times and spent 160.0DKK.
+      Name: Søren with id:- 3 Visisted for 1 times and spent 120.0DKK.
+
+
+     Total earning  400.0
+
+
+
+===========Statstics for Mon Oct 19 12:43:44 CEST 2020 ==========================================
+
+
+      Name: Tom with id:- 2 Visisted for 2 times and spent 128.0DKK.
+
+
+     Total earning  128.0   DKK.
+
+
+
